@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Clinton</h1>
 <h3 align="center">路漫漫其修远兮，吾将上下而求索</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-clinton&label=Profile%20views&color=0e75b6&style=flat" alt="mark-clinton" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-clinton&label=Profile%20Views&color=ff69b4&style=flat" alt="mark-clinton" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning and CV**
 
