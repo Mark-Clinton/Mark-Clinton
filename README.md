@@ -14,7 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mark-clinton&show_icons=true&locale=en" alt="mark-clinton" /></p></br>
 
 <!--START_SECTION:waka-->
-```text
-Python   2 hrs 30 mins   █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
