@@ -13,9 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mark-clinton&show_icons=true&locale=en" alt="mark-clinton" /></p></br>
 
-<!--START_SECTION:waka-->
-```text
-Python   12 hrs 25 mins  ████████████████████████▓   99.17 % 
-C++      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mark-Clinton)](https://github.com/anuraghazra/github-readme-stats)
