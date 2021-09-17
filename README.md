@@ -13,4 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mark-clinton&show_icons=true&locale=en" alt="mark-clinton" /></p></br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mark-Clinton)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Wakatime Week Stats:</h3>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkClinton)](https://github.com/anuraghazra/github-readme-stats)
